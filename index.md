@@ -3,28 +3,20 @@ layout: default
 title: Hello
 ---
 
+## Manish Mishra's Landing
+Hello there, I'm Manish. Welcome to my corner of the internet.
 
-## An easy to use, minimal, text focused Jekyll theme
+I love Math, Music, and Cinema.
+I am a full time Data Scientist at [Aganitha](https://aganitha.ai), an occasional quizzer and a compulsive punner (or *pun*star. or *pun*dit?).
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+I ask weird questions like [where is "Old Zealand"?](https://www.britannica.com/story/where-is-old-zealand)
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+Currently, I am building AI solutions to accelerate drug discovery, building and maintaining backend services, and dabbling with DevOps. I am also writing about [Intuitions in Linear Algebra](https://example.com).
 
-**Stop worrying about the style, focus on your writing.**
+Outside of work, you can find me [Inside A New Rabbit Hole](https://example.com).
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
-
-#### New: Life in Weeks Interactive Timeline
-
-- Visualize your life weeks, inspired by [Wait But Why](https://waitbutwhy.com/2014/05/life-weeks.html) and [Buster Benson](https://busterbenson.com/life-in-weeks/) and cycle through key events with up/down arrows.
-
-Try it on the [Life in Weeks](https://knhash.in/jekyllBear/life) page!
+You can check out my:\
+[Blog](https://manish-m.com/blog): where I write about everything\
+[Projects](https://example.com): where I experiment\
+[Life](https://manish-m.com/life): where I document my life in weeks\
+[Resume](/assets/resume.pdf): where I fail to put it all together in one page. Please check it out :)
